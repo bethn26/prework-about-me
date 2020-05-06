@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+  }
+
+p {
+    font-size: 14px;
+}
+.redtext {
+    color: red;
+}
+.greentext {
+    color: green;
+}
+
+.bluetext {
+    color:blue;
+}
+.orangetext {
+    color:orange;
+}
+.big {
+    font-size:24px;
+}
+.tiny {
+    font-size:8px;
+}
+.styledFont {
+    color:green;
+    font-weight: bold;
+}
+#styledImage {
+
+    border-width: 10px;
+    border-color: orange;
+    border-style: solid;
+}
